@@ -1,0 +1,88 @@
+body {
+  font:             small/1.6em Verdana, Helvetica, Arial, sans-serif;
+  background-color: #000000;	  
+  color:            #FFFFFF;
+  line-height:      1.8em;
+  clear:            all;
+}
+
+h1 {
+  font-size:  150%;
+  text-align: center;
+}
+
+h2 {
+  font-size:  130%;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.solar {
+  border:        white 1px dashed; 
+  border-radius: 15px;
+  padding:       25px;
+  padding-left:  80px;
+  margin:        30px;
+  margin-right:  250px;
+  margin-left:   250px;
+  font-style:    italic;
+  font-family:   Georgia, "Times New Roman", Times, serif;
+  line-height:   1.9em;
+  color:         #FFFFFF;
+  background:    url(images/solar.jpg) no-repeat;
+}
+
+.base {
+  width:          200px;
+  padding-right:  20px;
+  padding-bottom: 20px;
+  padding-left:   20px;
+  margin-left:    20px;
+  text-align:     center;
+  float:          right;
+}
+
+.ship {
+  width:          200px;
+  padding-right:  20px;
+  padding-bottom: 20px;
+  padding-left:   20px;
+  margin-left:    20px;
+  text-align:     center;
+  float:          left;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: block;
+}
+
+a:link {
+  color: #007e7e;
+}
+
+a:visited {
+  color: #333333;
+}
+
+a img {
+  border: 1px solid #FFFFFF; 
+}
+
+a:visited img {
+  border: 1px solid #333333;
+}
+	
+#space {
+  font-size:   50%;
+  text-align:  center;
+  line-height: normal;
+  margin-top:  30px;
+}
+

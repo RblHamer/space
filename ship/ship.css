@@ -1,0 +1,54 @@
+body {
+  font:             small/1.6em Verdana, Helvetica, Arial, sans-serif;
+  background-color: #000000;	  
+  color:            #FFFFFF;	  
+  line-height:      1.8em;
+  margin-left:      60px;
+  margin-right:     60px;
+  padding:          10px 200px;	  
+}
+
+h1 {
+  font-size:  150%;
+  text-align: center;
+}
+
+h2 {
+  font-size:  130%;
+  text-align: center;
+}
+
+.image {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: block;
+}
+
+a:link {
+  color: #007e7e;
+}
+
+a:visited {
+  color: #333333;
+}
+
+a img {
+  border: 1px solid #FFFFFF; 
+}
+
+a:visited img {
+  border: 1px solid #333333;
+}
+	
+#space {
+  font-size:   50%;
+  text-align:  center;
+  line-height: normal;
+  margin-top:  30px;
+}
